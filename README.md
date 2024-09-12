@@ -1,2 +1,3 @@
 # JEMAP
-Implementation code for 'Jointly Estimation of Microstructure Maps Across Acquisition Protocols'
+Implementation code for 'Jointly Estimation of Microstructure Maps Across Acquisition Protocols'I
+The code will be uploaded soon...
