@@ -66,7 +66,7 @@ def main():
 
     num_channels = 3
     batch_size = 16
-    JEMAP = Model(n_channels=num_channels, n_out=24)
+    JEMAP = Model(n_channels=num_channels, n_out=16)
     print(JEMAP)
 
     #
